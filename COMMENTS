@@ -1,0 +1,26 @@
+Lab 7 Beta
+Modeling and Storing Data
+
+Slide 3:
+Fill in the Stretch Goal
+The wording on the slide isn't really clear. What exactly is the stretch goal?
+Also, maybe mention the stretch goal later in the slides. At this point, I don't think it's really clear what they are supposed to be doing. I think the slide will be pretty meaningless to most people (schema, extend schema, references, etc)
+
+Slide 4
+"Model and store the blog posts" Will this wording be clear to students? What does modeling and storing a blog post mean?
+
+Slide 5:
+Why is BlogPost one word? It's because we are talking about the model here. Why don't you just say, "What makes up a BlogPost," then when you talk about actually writing stuff up in code, you can write it as BlogPost (for example in slide 6)
+
+Slides 5 and 6 - good connection
+
+Slide 8 - Good reasoning for why we need a DB. Nitpicky, but it looks like there aren't that many reasons, since there's so much extra space at the bottom of the slide. Maybe add more spacing between the two reasons.
+
+Slide 14 - I really like this explanation of schemas.
+
+Slide 16 - I assume you'll be including an actual "Stretch Goal Hint". Oh wait, you meant that as a reference to the Stretch Goal slide. Got it. I guess it will make more sense when you talk in class.
+
+Rest of concept slides are great!
+
+
+
